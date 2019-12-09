@@ -77,14 +77,14 @@ band             most_hated_rank    genre             country
 ---------------  ----------------   ----------------  ----------
 Nickelback        1                 alternative rock  Canada
 ```
-(X)
+( )
 ```sql
 band             most_hated_rank    genre             country
 ---------------  ----------------   ----------------  ----------
 Nickelback        1                 alternative rock  Canada
 Creed             2                 alternative metal US
 ```
-( )
+(X)
 ```sql
 band             most_hated_rank    genre             country
 ---------------  ----------------   ----------------  ----------
