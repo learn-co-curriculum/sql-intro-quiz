@@ -60,7 +60,7 @@ Coldplay          4                 pop               England
 ```
 
 ```sql
-SELECT * FROM band ORDER BY(most_hated_rank) ASC LIMIT 2;
+SELECT * FROM band ORDER BY(most_hated_rank) DESC LIMIT 2;
 ```
 
 What will the SQL query above return?
