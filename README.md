@@ -10,7 +10,7 @@
 
 ?: If SQLite is installed, how can you find out which version you are using?
 
-( ) `which sqlite` ( ) `which sqlite3` ( ) `which sql` (X) All of the Above
+( ) `which sqlite` (X) `which sqlite3` ( ) `which sql` () All of the Above
 
 ?: To exit SQLite, which command can be used?
 
